@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+    height: 50px;
+}
+
+.logoFooter{
+    height: 20px;
+}
+
+.textoForm{
+    font-size: 1.8em;
+}
+
+.precioAnt{
+    font-size: 1em;
+}
+
+.precioNew{
+    font-size: 1.3em;
+
+}

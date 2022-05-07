@@ -65,6 +65,11 @@ nav ul li a {
     font-size: 2em;
 }
 
+.textoDescripcionPerfil{
+    color:white;
+    font-size: 1em;
+}
+
 .fotoPerfil{
     border-radius: 100px;
 }

@@ -14,22 +14,12 @@ body {
     font-weight: lighter;
     background-image: url("../img/wallpaper.png");
     background-size: 100%;
+    color: white;
 }
 
 header {
     width: 100%;
     
-}
-
-.logo {
-    line-height: 60px;
-    position: fixed;
-    float: left;
-    margin: 16px 46px;
-    color: #fff;
-    font-weight: bold;
-    font-size: 20px;
-    letter-spacing: 2px;
 }
 
 nav ul {
@@ -61,15 +51,18 @@ nav ul li a {
 }
 
 .textoPerfil{
-    color:white;
     font-size: 2em;
 }
 
 .textoDescripcionPerfil{
-    color:white;
     font-size: 1em;
 }
 
 .fotoPerfil{
     border-radius: 100px;
+}
+
+main{
+    color: lightslategray;
+    background-color: white;
 }
